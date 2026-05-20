@@ -11,5 +11,5 @@
 
 ### 📫 How to reach me:
   - Email     :
-  - Twitch    : <https://twitch.tv/Nxrofn>
+  - Twitch    : <https://twitch.tv/Nxrofn_>
   - Twitter   : <https://twitter.com/Nxrofn>

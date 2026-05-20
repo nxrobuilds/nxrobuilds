@@ -10,6 +10,6 @@
 </p>
 
 ### 📫 How to reach me:
-  - Email     :
+  - Email     : Hello@nxrofn.com
   - Twitch    : <https://twitch.tv/Nxrofn_>
   - Twitter   : <https://twitter.com/Nxrofn>

@@ -13,4 +13,4 @@
   - Email     : Hello@nxrofn.com
   - Twitch    : <https://twitch.tv/Nxrofn_>
   - Twitter   : <https://twitter.com/Nxrofn>  
-  - LinkedIn  : <https://www.linkedin.com/in/bostondwhite?utm_source=share_via&utm_content=profile&utm_medium=member_ios>  
+  - LinkedIn  : <https://www.linkedin.com/in/bostondwhite>  

@@ -20,7 +20,7 @@
 ### GitHub Stats
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/nxrofn/nxrofn/main/github-metrics.svg?v=1" alt="GitHub Metrics" />
+  <img src="https://raw.githubusercontent.com/nxrobuilds/nxrofn/main/github-metrics.svg?v=1" alt="GitHub Metrics" />
 </p>
 
 ### 📫 How to reach me

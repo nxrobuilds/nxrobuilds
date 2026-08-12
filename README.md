@@ -20,11 +20,11 @@
 ### GitHub Stats
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/nxrobuilds/nxrofn/main/github-metrics.svg?v=1" alt="GitHub Metrics" />
+  <img src="https://raw.githubusercontent.com/Nxrobuilds/nxrofn/main/github-metrics.svg?v=1" alt="GitHub Metrics" />
 </p>
 
 ### 📫 How to reach me
 
 * **Email:** [Hello@nxrofn.com](mailto:Hello@nxrofn.com)
 * **Twitch:** https://twitch.tv/Nxrofn_
-* **Twitter / X:** https://x.com/Nxrofn
+* **X / Twitter:** https://x.com/Nxrofn
